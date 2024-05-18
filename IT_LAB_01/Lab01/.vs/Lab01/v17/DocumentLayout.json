@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\lab01\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|solutionrelative:lab01\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|c:\\users\\ivan\\desktop\\it_labs\\it_lab_01\\lab01\\lab01\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|solutionrelative:lab01\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\lab01\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|solutionrelative:lab01\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\lab01\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|solutionrelative:lab01\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\lab01\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|solutionrelative:lab01\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\lab01\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{62F20B93-C22B-4ADB-9BF6-FF6762EDBAA9}|Lab01\\Lab01.csproj|solutionrelative:lab01\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "Lab01\\Najava.aspx.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\Najava.aspx.cs",
+              "RelativeToolTip": "Lab01\\Najava.aspx.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAcwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:59:39.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\Najava.aspx",
+              "RelativeDocumentMoniker": "Lab01\\Najava.aspx",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\Najava.aspx",
+              "RelativeToolTip": "Lab01\\Najava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T04:58:53.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UspeshnoGlasanje.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\UspeshnoGlasanje.aspx.cs",
+              "RelativeDocumentMoniker": "Lab01\\UspeshnoGlasanje.aspx.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\UspeshnoGlasanje.aspx.cs",
+              "RelativeToolTip": "Lab01\\UspeshnoGlasanje.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:43:29.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UspeshnoGlasanje.aspx",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\UspeshnoGlasanje.aspx",
+              "RelativeDocumentMoniker": "Lab01\\UspeshnoGlasanje.aspx",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\UspeshnoGlasanje.aspx",
+              "RelativeToolTip": "Lab01\\UspeshnoGlasanje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T04:36:59.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Glasaj.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\Glasaj.aspx.cs",
+              "RelativeDocumentMoniker": "Lab01\\Glasaj.aspx.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\Glasaj.aspx.cs",
+              "RelativeToolTip": "Lab01\\Glasaj.aspx.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T04:00:25.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Glasaj.aspx",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\Glasaj.aspx",
+              "RelativeDocumentMoniker": "Lab01\\Glasaj.aspx",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_01\\Lab01\\Lab01\\Glasaj.aspx",
+              "RelativeToolTip": "Lab01\\Glasaj.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-20T03:05:39.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

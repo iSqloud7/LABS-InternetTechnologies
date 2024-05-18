@@ -1,0 +1,31 @@
+﻿@model Lab04.Models.Events
+
+@{
+    ViewBag.Title = "EventView";
+}
+
+<h2 style="font-weight:bold; color:darkblue">All events:</h2>
+
+<table class="table">
+    <tr style="background:red; color:yellow">
+        <th>ID</th>
+        <th>NAME</th>
+        <th>LOCATION</th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach (var eventItem in Model.eventModel)
+    {
+        <tr style="background:black; color:white">
+            <td>@eventItem.ID</td>
+            <td>@eventItem.name</td>
+            <td>@eventItem.location</td>
+            <td>
+                <button>@Html.ActionLink("Edit", "UpdateEvent", new { ID = eventItem.ID })</button>
+            </td>
+            <td>
+                <button>@Html.ActionLink("Delete", "DeleteEvent", new { ID = eventItem.ID })</button>
+            </td>
+        </tr>
+    }
+</table>

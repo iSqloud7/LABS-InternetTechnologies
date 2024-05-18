@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\it_labs\\it_lab_04\\lab04\\lab04\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|solutionrelative:lab04\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\lab04\\views\\event\\eventview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|solutionrelative:lab04\\views\\event\\eventview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\lab04\\views\\event\\updateevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|solutionrelative:lab04\\views\\event\\updateevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\lab04\\views\\event\\addnewevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|solutionrelative:lab04\\views\\event\\addnewevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\lab04\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|solutionrelative:lab04\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\lab04\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D10934-24D8-457B-B9CA-07A2F765B722}|Lab04\\Lab04.csproj|solutionrelative:lab04\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Views\\Event\\UpdateEvent.cshtml",
+              "RelativeDocumentMoniker": "Lab04\\Views\\Event\\UpdateEvent.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Views\\Event\\UpdateEvent.cshtml",
+              "RelativeToolTip": "Lab04\\Views\\Event\\UpdateEvent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T21:35:19.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddNewEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Views\\Event\\AddNewEvent.cshtml",
+              "RelativeDocumentMoniker": "Lab04\\Views\\Event\\AddNewEvent.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Views\\Event\\AddNewEvent.cshtml",
+              "RelativeToolTip": "Lab04\\Views\\Event\\AddNewEvent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T02:59:36.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Views\\Event\\EventView.cshtml",
+              "RelativeDocumentMoniker": "Lab04\\Views\\Event\\EventView.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Views\\Event\\EventView.cshtml",
+              "RelativeToolTip": "Lab04\\Views\\Event\\EventView.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T22:54:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Lab04\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Lab04\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAA7wAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:24:49.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Models\\EventModel.cs",
+              "RelativeDocumentMoniker": "Lab04\\Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Models\\EventModel.cs",
+              "RelativeToolTip": "Lab04\\Models\\EventModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:11:41.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Models\\Events.cs",
+              "RelativeDocumentMoniker": "Lab04\\Models\\Events.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_Labs\\IT_LAB_04\\Lab04\\Lab04\\Models\\Events.cs",
+              "RelativeToolTip": "Lab04\\Models\\Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T01:19:15.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

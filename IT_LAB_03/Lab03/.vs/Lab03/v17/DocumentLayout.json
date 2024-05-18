@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|c:\\users\\ivan\\desktop\\it_labs\\it_lab_03\\lab03\\lab03\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|solutionrelative:lab03\\najava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\lab03\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|solutionrelative:lab03\\uspeshnoglasanje.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\lab03\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|solutionrelative:lab03\\uspeshnoglasanje.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\lab03\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|solutionrelative:lab03\\glasaj.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\lab03\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|solutionrelative:lab03\\najava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\lab03\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F44CEFB0-CA22-49D0-84C7-07C31DF51C4E}|Lab03\\Lab03.csproj|solutionrelative:lab03\\glasaj.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UspeshnoGlasanje.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\UspeshnoGlasanje.aspx.cs",
+              "RelativeDocumentMoniker": "Lab03\\UspeshnoGlasanje.aspx.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\UspeshnoGlasanje.aspx.cs",
+              "RelativeToolTip": "Lab03\\UspeshnoGlasanje.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:06:29.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UspeshnoGlasanje.aspx",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\UspeshnoGlasanje.aspx",
+              "RelativeDocumentMoniker": "Lab03\\UspeshnoGlasanje.aspx",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\UspeshnoGlasanje.aspx",
+              "RelativeToolTip": "Lab03\\UspeshnoGlasanje.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-01T21:45:12.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Glasaj.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\Glasaj.aspx.cs",
+              "RelativeDocumentMoniker": "Lab03\\Glasaj.aspx.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\Glasaj.aspx.cs",
+              "RelativeToolTip": "Lab03\\Glasaj.aspx.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:15:10.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Glasaj.aspx",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\Glasaj.aspx",
+              "RelativeDocumentMoniker": "Lab03\\Glasaj.aspx",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\Glasaj.aspx",
+              "RelativeToolTip": "Lab03\\Glasaj.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T03:10:27.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Najava.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\Najava.aspx.cs",
+              "RelativeDocumentMoniker": "Lab03\\Najava.aspx.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\Najava.aspx.cs",
+              "RelativeToolTip": "Lab03\\Najava.aspx.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T03:03:42.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Najava.aspx",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\Najava.aspx",
+              "RelativeDocumentMoniker": "Lab03\\Najava.aspx",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\IT_Labs\\IT_LAB_03\\Lab03\\Lab03\\Najava.aspx",
+              "RelativeToolTip": "Lab03\\Najava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-28T02:48:33.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

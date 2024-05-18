@@ -1,0 +1,29 @@
+﻿@model Lab04.Models.EventModel
+@{
+    ViewBag.Title = "AddNewEvent";
+}
+
+<h2 style="color:darkblue; font-weight:bold; font-style:italic">Add New Event</h2>
+
+@using (Html.BeginForm("AddNewEvent", "Event"))
+{
+    <div class="mt-2" style="color:steelblue">
+        @Html.LabelFor(e => e.name)
+        @Html.TextBoxFor(e => e.name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(e => e.name)
+    </div>
+
+    <div class="mt-2" style="color:steelblue">
+        @Html.LabelFor(e => e.location)
+        @Html.TextBoxFor(e => e.location, new { @class = "form-control" })
+        @Html.ValidationMessageFor(e => e.location)
+    </div>
+
+    <button class="mt-2" style="background:darkblue; color:white" type="submit">Add Event!</button>
+
+    //<button><a href="@Url.Action("EventView", "Event")">BackToTable!</a></button>
+
+    @Html.ActionLink("BackToTable!", "EventView", "Event", null, new { @class = "btn btn-primary" })
+
+}
+
