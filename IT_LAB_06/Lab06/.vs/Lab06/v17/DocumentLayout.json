@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A87FA17A-E36E-4405-94F0-6F4BB6E8463C}|Lab06\\Lab06.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\labs-internettechnologies\\it_lab_06\\lab06\\lab06\\views\\event\\addnewevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87FA17A-E36E-4405-94F0-6F4BB6E8463C}|Lab06\\Lab06.csproj|solutionrelative:lab06\\views\\event\\addnewevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87FA17A-E36E-4405-94F0-6F4BB6E8463C}|Lab06\\Lab06.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\labs-internettechnologies\\it_lab_06\\lab06\\lab06\\views\\event\\eventview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87FA17A-E36E-4405-94F0-6F4BB6E8463C}|Lab06\\Lab06.csproj|solutionrelative:lab06\\views\\event\\eventview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87FA17A-E36E-4405-94F0-6F4BB6E8463C}|Lab06\\Lab06.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\labs-internettechnologies\\it_lab_06\\lab06\\lab06\\views\\event\\updateevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A87FA17A-E36E-4405-94F0-6F4BB6E8463C}|Lab06\\Lab06.csproj|solutionrelative:lab06\\views\\event\\updateevent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87FA17A-E36E-4405-94F0-6F4BB6E8463C}|Lab06\\Lab06.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\labs-internettechnologies\\it_lab_06\\lab06\\lab06\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87FA17A-E36E-4405-94F0-6F4BB6E8463C}|Lab06\\Lab06.csproj|solutionrelative:lab06\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A87FA17A-E36E-4405-94F0-6F4BB6E8463C}|Lab06\\Lab06.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\labs-internettechnologies\\it_lab_06\\lab06\\lab06\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A87FA17A-E36E-4405-94F0-6F4BB6E8463C}|Lab06\\Lab06.csproj|solutionrelative:lab06\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddNewEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\Lab06\\Views\\Event\\AddNewEvent.cshtml",
+              "RelativeDocumentMoniker": "Lab06\\Views\\Event\\AddNewEvent.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\Lab06\\Views\\Event\\AddNewEvent.cshtml",
+              "RelativeToolTip": "Lab06\\Views\\Event\\AddNewEvent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T23:01:18.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateEvent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\Lab06\\Views\\Event\\UpdateEvent.cshtml",
+              "RelativeDocumentMoniker": "Lab06\\Views\\Event\\UpdateEvent.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\Lab06\\Views\\Event\\UpdateEvent.cshtml",
+              "RelativeToolTip": "Lab06\\Views\\Event\\UpdateEvent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T22:58:40.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\Lab06\\Views\\Event\\EventView.cshtml",
+              "RelativeDocumentMoniker": "Lab06\\Views\\Event\\EventView.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\Lab06\\Views\\Event\\EventView.cshtml",
+              "RelativeToolTip": "Lab06\\Views\\Event\\EventView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-18T22:56:30.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\Lab06\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Lab06\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\Lab06\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Lab06\\Controllers\\EventController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:50:23.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\Lab06\\Models\\EventModel.cs",
+              "RelativeDocumentMoniker": "Lab06\\Models\\EventModel.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_06\\Lab06\\Lab06\\Models\\EventModel.cs",
+              "RelativeToolTip": "Lab06\\Models\\EventModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:55:30.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
