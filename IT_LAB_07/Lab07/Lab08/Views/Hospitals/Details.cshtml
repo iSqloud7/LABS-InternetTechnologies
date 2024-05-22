@@ -1,0 +1,44 @@
+﻿@model Lab08.Models.Hospital
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Hospital</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.hospital_name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hospital_name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hospital_address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hospital_address)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hospital_image)
+        </dt>
+
+        <dd>
+            <img src="@Model.hospital_image" alt="Hospital Image!" style="width:100px; height:100px" />
+            @*@Html.DisplayFor(model => model.hospital_image)*@
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.hospitalID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

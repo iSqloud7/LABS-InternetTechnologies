@@ -1,0 +1,26 @@
+﻿@model Lab08.Models.Doctor
+
+@{
+    ViewBag.Title = "AddPatientToDoctor";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add Patient to Doctor</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.HiddenFor(model => model.doctorID)
+
+    <div class="form-group">
+        @Html.Label("Select Patient:")
+        @Html.DropDownList("SelectedPatientID", (SelectList)ViewBag.PatientList, "Select Patient", new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Patient</button>
+}
+
+<div>
+    @Html.ActionLink("Back to Doctor Details", "Details", new { id = Model.doctorID })
+</div>

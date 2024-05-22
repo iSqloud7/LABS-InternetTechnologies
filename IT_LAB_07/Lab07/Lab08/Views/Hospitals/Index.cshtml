@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Lab08.Models.Hospital>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.hospital_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.hospital_address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.hospital_image)
+            </th>
+            <th>CRUD-Buttons</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.hospital_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.hospital_address)
+                </td>
+                <td>
+                    <img src="@item.hospital_image" alt="Hospital Image!" style="width:100px; height:100px" />
+                    @*@Html.DisplayFor(modelItem => item.hospital_image)*@
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.hospitalID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.hospitalID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.hospitalID })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

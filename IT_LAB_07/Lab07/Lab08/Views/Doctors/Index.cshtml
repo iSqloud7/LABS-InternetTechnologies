@@ -1,0 +1,93 @@
+﻿@model IEnumerable<Lab08.Models.Doctor>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<div class="doctor-list">
+
+</div>
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.hospitalID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.hospital.hospital_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.hospital.hospital_address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.doctor_name)
+            </th>
+            <th>CRUD-Buttons</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+         {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.hospitalID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.hospital.hospital_name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.hospital.hospital_address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.doctor_name)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.doctorID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.doctorID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.doctorID })
+                </td>
+            </tr>
+         }
+    </tbody>
+</table>
+
+<div class="doctor-list mt-5">
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>ID на доктор</th>
+                <th>Име на доктор</th>
+                <th>ID на болница</th>
+                <th>Име на болница</th>
+                <th>Изглед на болница</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var doctor in Model)
+            {
+                <tr>
+                    <td>@doctor.doctorID</td>
+                    <td>@doctor.doctor_name</td>
+                    <td>@doctor.hospitalID</td>
+                    <td>@doctor.hospital.hospital_name</td>
+                    <td><img src="@doctor.hospital.hospital_image" style="width:100px; height:100px" /></td>
+                    <td>
+                        @using (Html.BeginForm("Delete", "Doctors", new { ID = doctor.doctorID }, FormMethod.Post, new { onsubmit = "return confirm('Are you sure you want to delete this doctor?');" }))
+                        {
+                            @Html.AntiForgeryToken()
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

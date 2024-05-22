@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Lab08.Models.Patient>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.patient_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.patient_code)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.patient_gender)
+            </th>
+            <th>CRUD-Buttons</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(item.patient_name, "Details", new { ID = item.patientID })
+                    @*@Html.DisplayFor(modelItem => item.patient_name, "Details", "Patients")*@
+                </td>
+                <td>
+                    @*@Html.LabelFor(modelItem => item.patient_code, "Код на пациентот")*@
+                    @Html.DisplayFor(modelItem => item.patient_code)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.patient_gender)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.patientID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.patientID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.patientID })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

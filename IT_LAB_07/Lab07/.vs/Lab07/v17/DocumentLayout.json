@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_07\\Lab07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C411F-8B86-4F65-BA1E-520683E4A2F5}|Lab08\\Lab08.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\labs-internettechnologies\\it_lab_07\\lab07\\lab08\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C411F-8B86-4F65-BA1E-520683E4A2F5}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\hospitals\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C411F-8B86-4F65-BA1E-520683E4A2F5}|Lab08\\Lab08.csproj|C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_07\\Lab07\\lab08\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F04C411F-8B86-4F65-BA1E-520683E4A2F5}|Lab08\\Lab08.csproj|solutionrelative:lab08\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04C411F-8B86-4F65-BA1E-520683E4A2F5}|Lab08\\Lab08.csproj|C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_07\\Lab07\\lab08\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04C411F-8B86-4F65-BA1E-520683E4A2F5}|Lab08\\Lab08.csproj|solutionrelative:lab08\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_07\\Lab07\\Lab08\\Views\\Hospitals\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Hospitals\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_07\\Lab07\\Lab08\\Views\\Hospitals\\Index.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Hospitals\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:46:29.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_07\\Lab07\\Lab08\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab08\\Views\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_07\\Lab07\\Lab08\\Views\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "Lab08\\Views\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:43:33.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_07\\Lab07\\Lab08\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Lab08\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\LABS-InternetTechnologies\\IT_LAB_07\\Lab07\\Lab08\\Models\\Doctor.cs",
+              "RelativeToolTip": "Lab08\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:40:27.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
