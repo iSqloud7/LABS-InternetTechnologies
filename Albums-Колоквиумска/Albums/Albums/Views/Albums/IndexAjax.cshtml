@@ -1,0 +1,62 @@
+﻿@model Albums.Models.AlbumDatatableObject
+
+@{
+    ViewBag.Title = "IndexAjax";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index Albums - Ajax</h2>
+
+<table id="AlbumTable" class="table">
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Title</td>
+            <td>Price</td>
+            <td>Image</td>
+        </tr>
+    </thead>
+
+    <tbody>
+    </tbody>
+</table>
+
+@section scripts
+ {
+    <script>
+        $(document).ready(function () {
+            $("#AlbumTable").DataTable({ // повик на DataTable со неколку параметри
+                ajax: {
+                    url: "/api/AlbumsAPI",
+                    dataSrc: ""
+                },
+                columns: [
+                    {
+                        data: "albumName",
+                        render: function (settings, type, album) {
+                            return "<a href='/Albums/Details/" + album.albumID + "'/>" + album.albumName + "</a>"; // приказ во custom format
+                        }
+                    },
+                    {
+                        data: "albumTitle",
+                        render: function (data, type, album) {
+                            return data;
+                        }
+                    },
+                    {
+                        data: "albumPrice",
+                        render: function (data, type, album) {
+                            return "$" + data.toFixed(2);
+                        }
+                    },
+                    {
+                        data: "AlbumArtUrl",
+                        render: function (setting, type, album) {
+                            return "<img src='" + album.AlbumArtUrl + "'/>";
+                        }
+                    }
+                ]
+            });
+        });
+    </script>
+}

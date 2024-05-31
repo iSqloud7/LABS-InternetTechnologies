@@ -1,0 +1,25 @@
+﻿@model Albums.Models.AddAlbumToStoreModel
+
+@{
+    ViewBag.Title = "AddAlbumToStore";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Add album to store: @ViewBag.storeName</h2>
+
+@using (Html.BeginForm("AddAlbumToStore", "Stores"))
+ {
+    <div class="form-group">
+        @Html.DropDownListFor(m => m.albumID, new SelectList(Model.albums, "albumID", "albumName"), new { @class="form-control" })
+        @*// hidden елемент za storeID*@
+        @Html.HiddenFor(m => m.storeID)
+
+        @*<select>
+            foreach (all albums) -> new SelectList(all albums)
+            <option value="ID:1">FirstAlbum</option>
+            <option value="ID:2">SecondAlbum</option>
+        </select>*@
+
+    </div>
+    <button type="submit" class="btn btn-outline-dark">Add album to store!</button>
+ }

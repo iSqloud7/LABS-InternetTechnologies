@@ -1,0 +1,123 @@
+﻿@model IEnumerable<Albums.Models.Album>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table id="AlbumTable" class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Artist.artistName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre.genreName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.albumName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.albumTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.albumPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AlbumArtUrl)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @**името да покажува кон Details за самиот Album*@
+                    @*@Html.DisplayFor(modelItem => item.Artist.artistName)*@
+                    @Html.ActionLink(item.albumName, "Details", new { id = item.albumID }) |
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre.genreName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.albumName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.albumTitle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.albumPrice)
+                </td>
+                <td>
+                    @**промена на albumArtURL, да не биде прикажан како текст, туку како слика*@
+                    @*@Html.DisplayFor(modelItem => item.AlbumArtUrl)*@
+                    <img src="@item.AlbumArtUrl" alt="Album Image" style="max-width: 100px; max-height:100px" />
+                </td>
+                <td>
+                    @if (User.IsInRole("Editor") || User.IsInRole("Administrator")) // Edit достапно за Editor и за Administrator
+                    {
+                        @Html.ActionLink("Edit", "Edit", new { id = item.albumID })
+                    }
+                    @*@Html.ActionLink("Details", "Details", new { id=item.albumID }) |*@
+                    @if (User.IsInRole("Administrator")) // Delete достапно само за Administrator
+                    {
+                        // посевен link Delete за Delete со Ajax
+                        <button data-album-id="@item.albumID" class="btn-link js-delete">Delete</button>
+                        @*@Html.ActionLink("Delete", "Delete", new { id = item.albumID })*@
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section scripts
+ {
+    <script>
+        $(document).ready(function () {
+            var table = $("#AlbumTable").DataTable();
+            $("#AlbumTable").on("click", ".js-delete", function () {
+                // I-начин
+                //alert("Click Works!");
+                //var button = $(this);
+                //var albumID = button.data("album-id");
+                //$.ajax({
+                //    url: "/Albums/Delete/" + albumID,
+                //    method: "GET", // или "DELETE" како вториот начин
+                //    success: function () {
+                //        table.row(button.parents("tr")).remove().draw();
+                //    },
+                //    error: function (err) {
+                //        console.log(err);
+                //    }
+                //});
+
+                // II-начин
+                var button = $(this);
+                var albumID = button.data("album-id");
+                 bootbox.confirm("Do you want to delete this album?", function(result) {
+                     if(result) {
+                         $.ajax({
+                             url: "/api/AlbumsAPI/" + albumID,
+                             method: "DELETE",
+                             success: function () {
+                                 table.row(button.parents("tr")).remove().draw();
+                             },
+                             error: function (err) {
+                                 console.log(err);
+                             }
+                         });
+                     }
+                 });
+            });
+        });
+    </script>
+}

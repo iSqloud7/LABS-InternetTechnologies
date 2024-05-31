@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\it_audvezhbi\\albums\\albums\\albums\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|solutionrelative:albums\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\it_audvezhbi\\albums\\albums\\albums\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|solutionrelative:albums\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\it_audvezhbi\\albums\\albums\\albums\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|solutionrelative:albums\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\it_audvezhbi\\albums\\albums\\albums\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|solutionrelative:albums\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\it_audvezhbi\\albums\\albums\\albums\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|solutionrelative:albums\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\it_audvezhbi\\albums\\albums\\albums\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|solutionrelative:albums\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|c:\\users\\ivan\\desktop\\\u0438\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 i\\it_audvezhbi\\albums\\albums\\albums\\views\\account\\addusertorole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6BCE6CD-48A0-4069-BCF5-C6AE95E67887}|Albums\\Albums.csproj|solutionrelative:albums\\views\\account\\addusertorole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Albums\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Albums\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:36:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Albums\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Albums\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:36:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "Albums\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "Albums\\App_Start\\IdentityConfig.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:36:24.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Albums\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Albums\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:36:21.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Albums\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\Global.asax.cs",
+              "RelativeToolTip": "Albums\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T20:36:05.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Albums\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Albums\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T20:35:55.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUserToRole.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\Views\\Account\\AddUserToRole.cshtml",
+              "RelativeDocumentMoniker": "Albums\\Views\\Account\\AddUserToRole.cshtml",
+              "ToolTip": "C:\\Users\\Ivan\\Desktop\\\u0418\u043D\u0442\u0435\u0440\u043D\u0435\u0442 \u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u0438 I\\IT_AudVezhbi\\Albums\\Albums\\Albums\\Views\\Account\\AddUserToRole.cshtml",
+              "RelativeToolTip": "Albums\\Views\\Account\\AddUserToRole.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T20:35:01.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
